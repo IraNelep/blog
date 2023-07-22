@@ -1,0 +1,35 @@
+#header {
+    background: pink;
+}
+
+h1 {
+    color: palegreen
+}
+
+nav {
+    background: palevioletred;
+}
+
+#main {
+    background: palevioletred;
+}
+
+#changelist {
+    background: palegreen;
+}
+
+#toolbar {
+    background: peachpuff;
+}
+
+#nav-sidebar {
+    background: peru;
+}
+
+nav Breadcrumbs {
+    color: aqua;
+}
+
+h1 #site-name {
+    color: black;
+}
